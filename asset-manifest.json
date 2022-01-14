@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-app-minimal-homepage/static/css/main.c617bdb1.css",
+    "main.js": "/react-app-minimal-homepage/static/js/main.f34d2d6a.js",
+    "static/media/products.png": "/react-app-minimal-homepage/static/media/products.d6f112c6c1a75ba9baac.png",
+    "static/media/logo.png": "/react-app-minimal-homepage/static/media/logo.781fcfd724c6098003d9.png",
+    "static/media/logo1.png": "/react-app-minimal-homepage/static/media/logo1.5556d96e45c54609aa04.png",
+    "index.html": "/react-app-minimal-homepage/index.html",
+    "main.c617bdb1.css.map": "/react-app-minimal-homepage/static/css/main.c617bdb1.css.map",
+    "main.f34d2d6a.js.map": "/react-app-minimal-homepage/static/js/main.f34d2d6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c617bdb1.css",
+    "static/js/main.f34d2d6a.js"
+  ]
+}
