@@ -1,0 +1,29 @@
+.products {
+  max-width: 900px;
+  background-color: rgb(246, 246, 246);
+  padding: 1rem;
+  border-radius: var(--border-radius);
+}
+.mainHeading {
+  font-size: 3rem;
+  padding: 0rem 4rem 2rem 4rem;
+  letter-spacing: 0.3rem;
+  font-family: monospace;
+  text-transform: uppercase;
+
+  border-bottom: 10px solid white;
+}
+.mainLogo {
+  width: 200px;
+  margin-bottom: 1rem;
+}
+.mainHeading .green {
+  color: var(--primary-color);
+}
+.productsImg {
+  width: 100%;
+  max-width: var(--max-width);
+  border-radius: var(--border-radius);
+  border: 3px solid white;
+  box-shadow: var(--box-shadow);
+}

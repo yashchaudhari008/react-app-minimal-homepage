@@ -1,0 +1,6 @@
+.aboutCard {
+  max-width: 900px;
+  background-color: rgb(246, 246, 246);
+  padding: 1rem;
+  border-radius: var(--border-radius);
+}
